@@ -9,6 +9,6 @@ Skonfiguruj OAuth 2.0 i pobierz identyfikator klienta (Client ID) oraz tajny klu
 
 Dodaj przekierowanie na adres http://localhost.
 
-Zainstaluj wymagane biblioteki: Zainstaluj niezbędne pakiety otwierając plik bash o nazwie instaler.
+Zainstaluj wymagane biblioteki: Zainstaluj niezbędne pakiety otwierając plik bash o nazwie instalator.bash.
 
-Uruchom główny skrypt i postępuj zgodnie z instrukcjami.
+Uruchom główny skrypt o nazwie kodzik i postępuj zgodnie z instrukcjami.
